@@ -45,7 +45,9 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/[username=goncalvesnikita33](https://github.com/NikitaGoncalves/nikitagonsovestrophes/tree/main/github-profile-trophy-master)&theme=dracula&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=goncalvesnikita33)](https://github.com/ryo-ma/github-profile-trophy)
+&theme=dracula&margin-w=10&row=2&column=3" />
 </p>
 
 ---
